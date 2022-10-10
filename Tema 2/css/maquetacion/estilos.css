@@ -12,7 +12,7 @@
 .encabezado {
     margin:auto;
     width: 100%;
-    /* display:inline-block; */
+    /* display:inline-block; */ 
     border: 1px solid black; 
     ;
 }
